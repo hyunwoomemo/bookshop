@@ -1,0 +1,1499 @@
+23/02/23 02:10:24 971 [debug]: -------------------------------
+23/02/23 02:10:24 973 [debug]: |     Start Express Server     |
+23/02/23 02:10:24 974 [debug]: -------------------------------
+23/02/23 02:10:24 974 [debug]: server address => http://172.30.1.23:3001
+23/02/23 02:10:24 975 [debug]: -------------------------------
+23/02/23 02:11:36 967 [debug]: -------------------------------
+23/02/23 02:11:36 969 [debug]: |     Start Express Server     |
+23/02/23 02:11:36 970 [debug]: -------------------------------
+23/02/23 02:11:36 970 [debug]: server address => http://172.30.1.23:3001
+23/02/23 02:11:36 970 [debug]: -------------------------------
+23/02/23 02:12:53 436 [debug]: -------------------------------
+23/02/23 02:12:53 439 [debug]: |     Start Express Server     |
+23/02/23 02:12:53 439 [debug]: -------------------------------
+23/02/23 02:12:53 440 [debug]: server address => http://172.30.1.23:3001
+23/02/23 02:12:53 440 [debug]: -------------------------------
+23/02/23 02:12:58 954 [debug]: -------------------------------
+23/02/23 02:12:58 956 [debug]: |     Start Express Server     |
+23/02/23 02:12:58 957 [debug]: -------------------------------
+23/02/23 02:12:58 957 [debug]: server address => http://172.30.1.23:3001
+23/02/23 02:12:58 957 [debug]: -------------------------------
+23/02/23 02:13:05 472 [debug]: -------------------------------
+23/02/23 02:13:05 476 [debug]: |     Start Express Server     |
+23/02/23 02:13:05 476 [debug]: -------------------------------
+23/02/23 02:13:05 477 [debug]: server address => http://172.30.1.23:3001
+23/02/23 02:13:05 478 [debug]: -------------------------------
+23/02/23 02:15:18 566 [debug]: 백엔드가 종료되었습니다.
+23/02/23 02:28:28 530 [debug]: -------------------------------
+23/02/23 02:28:28 533 [debug]: |     Start Express Server     |
+23/02/23 02:28:28 535 [debug]: -------------------------------
+23/02/23 02:28:28 535 [debug]: server address => http://172.30.1.23:3001
+23/02/23 02:28:28 536 [debug]: -------------------------------
+23/02/23 09:05:44 926 [debug]: 백엔드가 종료되었습니다.
+23/02/23 09:05:48 981 [debug]: -------------------------------
+23/02/23 09:05:48 984 [debug]: |     Start Express Server     |
+23/02/23 09:05:48 984 [debug]: -------------------------------
+23/02/23 09:05:48 985 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:05:48 985 [debug]: -------------------------------
+23/02/23 09:13:29 729 [debug]: -------------------------------
+23/02/23 09:13:29 731 [debug]: |     Start Express Server     |
+23/02/23 09:13:29 732 [debug]: -------------------------------
+23/02/23 09:13:29 732 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:13:29 733 [debug]: -------------------------------
+23/02/23 09:13:52 318 [debug]: -------------------------------
+23/02/23 09:13:52 320 [debug]: |     Start Express Server     |
+23/02/23 09:13:52 321 [debug]: -------------------------------
+23/02/23 09:13:52 321 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:13:52 322 [debug]: -------------------------------
+23/02/23 09:13:57 001 [debug]: -------------------------------
+23/02/23 09:13:57 004 [debug]: |     Start Express Server     |
+23/02/23 09:13:57 005 [debug]: -------------------------------
+23/02/23 09:13:57 006 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:13:57 007 [debug]: -------------------------------
+23/02/23 09:14:05 892 [debug]: -------------------------------
+23/02/23 09:14:05 894 [debug]: |     Start Express Server     |
+23/02/23 09:14:05 895 [debug]: -------------------------------
+23/02/23 09:14:05 896 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:14:05 896 [debug]: -------------------------------
+23/02/23 09:14:08 967 [debug]: -------------------------------
+23/02/23 09:14:08 969 [debug]: |     Start Express Server     |
+23/02/23 09:14:08 971 [debug]: -------------------------------
+23/02/23 09:14:08 973 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:14:08 973 [debug]: -------------------------------
+23/02/23 09:15:00 125 [debug]: -------------------------------
+23/02/23 09:15:00 127 [debug]: |     Start Express Server     |
+23/02/23 09:15:00 128 [debug]: -------------------------------
+23/02/23 09:15:00 129 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:15:00 130 [debug]: -------------------------------
+23/02/23 09:15:22 131 [debug]: -------------------------------
+23/02/23 09:15:22 134 [debug]: |     Start Express Server     |
+23/02/23 09:15:22 134 [debug]: -------------------------------
+23/02/23 09:15:22 135 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:15:22 135 [debug]: -------------------------------
+23/02/23 09:15:38 247 [debug]: 백엔드가 종료되었습니다.
+23/02/23 09:15:39 384 [debug]: -------------------------------
+23/02/23 09:15:39 386 [debug]: |     Start Express Server     |
+23/02/23 09:15:39 387 [debug]: -------------------------------
+23/02/23 09:15:39 388 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:15:39 388 [debug]: -------------------------------
+23/02/23 09:17:23 197 [debug]: -------------------------------
+23/02/23 09:17:23 199 [debug]: |     Start Express Server     |
+23/02/23 09:17:23 200 [debug]: -------------------------------
+23/02/23 09:17:23 200 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:17:23 201 [debug]: -------------------------------
+23/02/23 09:20:52 656 [debug]: -------------------------------
+23/02/23 09:20:52 659 [debug]: |     Start Express Server     |
+23/02/23 09:20:52 660 [debug]: -------------------------------
+23/02/23 09:20:52 660 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:20:52 661 [debug]: -------------------------------
+23/02/23 09:26:59 494 [debug]: -------------------------------
+23/02/23 09:26:59 497 [debug]: |     Start Express Server     |
+23/02/23 09:26:59 498 [debug]: -------------------------------
+23/02/23 09:26:59 498 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:26:59 499 [debug]: -------------------------------
+23/02/23 09:27:04 998 [debug]: 클라이언트가 접속했습니다.
+23/02/23 09:27:04 999 [debug]: [GET] http://localhost:3001/session
+23/02/23 09:27:05 000 [debug]: [clinet] ::ffff:127.0.0.1 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 09:27:05 017 [error]: PageNotFoundException: 페이지를 찾을 수 없습니다.
+    at C:\Users\이현우\library-project2\server\/app.js:199:48
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:91:12)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:473:21)
+23/02/23 09:27:05 023 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 24ms
+23/02/23 09:27:05 024 [debug]: --------------------------------
+23/02/23 09:27:09 056 [debug]: -------------------------------
+23/02/23 09:27:09 060 [debug]: |     Start Express Server     |
+23/02/23 09:27:09 061 [debug]: -------------------------------
+23/02/23 09:27:09 063 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:27:09 063 [debug]: -------------------------------
+23/02/23 09:27:22 945 [debug]: -------------------------------
+23/02/23 09:27:22 948 [debug]: |     Start Express Server     |
+23/02/23 09:27:22 948 [debug]: -------------------------------
+23/02/23 09:27:22 949 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:27:22 950 [debug]: -------------------------------
+23/02/23 09:27:23 000 [debug]: 클라이언트가 접속했습니다.
+23/02/23 09:27:23 002 [debug]: [GET] http://localhost:3001/session
+23/02/23 09:27:23 003 [debug]: [clinet] ::ffff:127.0.0.1 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 09:27:23 018 [error]: PageNotFoundException: 페이지를 찾을 수 없습니다.
+    at C:\Users\이현우\library-project2\server\/app.js:199:48
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:91:12)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:473:21)
+23/02/23 09:27:23 024 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 23ms
+23/02/23 09:27:23 024 [debug]: --------------------------------
+23/02/23 09:27:24 341 [debug]: 클라이언트가 접속했습니다.
+23/02/23 09:27:24 342 [debug]: [GET] http://localhost:3001/session
+23/02/23 09:27:24 343 [debug]: [clinet] ::ffff:127.0.0.1 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 09:27:24 345 [error]: PageNotFoundException: 페이지를 찾을 수 없습니다.
+    at C:\Users\이현우\library-project2\server\/app.js:199:48
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:91:12)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:473:21)
+23/02/23 09:27:24 347 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 5ms
+23/02/23 09:27:24 347 [debug]: --------------------------------
+23/02/23 09:27:32 406 [debug]: -------------------------------
+23/02/23 09:27:32 409 [debug]: |     Start Express Server     |
+23/02/23 09:27:32 410 [debug]: -------------------------------
+23/02/23 09:27:32 410 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:27:32 410 [debug]: -------------------------------
+23/02/23 09:27:43 105 [debug]: 클라이언트가 접속했습니다.
+23/02/23 09:27:43 108 [debug]: [GET] http://172.30.1.23:3001/session
+23/02/23 09:27:43 108 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 09:27:43 143 [error]: PageNotFoundException: 페이지를 찾을 수 없습니다.
+    at C:\Users\이현우\library-project2\server\/app.js:199:48
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:91:12)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:473:21)
+23/02/23 09:27:43 148 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 42ms
+23/02/23 09:27:43 149 [debug]: --------------------------------
+23/02/23 09:27:49 731 [debug]: -------------------------------
+23/02/23 09:27:49 734 [debug]: |     Start Express Server     |
+23/02/23 09:27:49 735 [debug]: -------------------------------
+23/02/23 09:27:49 736 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:27:49 736 [debug]: -------------------------------
+23/02/23 09:29:57 470 [debug]: -------------------------------
+23/02/23 09:29:57 472 [debug]: |     Start Express Server     |
+23/02/23 09:29:57 473 [debug]: -------------------------------
+23/02/23 09:29:57 474 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:29:57 475 [debug]: -------------------------------
+23/02/23 09:30:17 138 [debug]: -------------------------------
+23/02/23 09:30:17 140 [debug]: |     Start Express Server     |
+23/02/23 09:30:17 141 [debug]: -------------------------------
+23/02/23 09:30:17 142 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:30:17 142 [debug]: -------------------------------
+23/02/23 09:30:21 402 [debug]: -------------------------------
+23/02/23 09:30:21 404 [debug]: |     Start Express Server     |
+23/02/23 09:30:21 405 [debug]: -------------------------------
+23/02/23 09:30:21 406 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:30:21 406 [debug]: -------------------------------
+23/02/23 09:30:26 197 [debug]: 클라이언트가 접속했습니다.
+23/02/23 09:30:26 198 [debug]: [GET] http://172.30.1.23:3001/session
+23/02/23 09:30:26 199 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 09:30:26 237 [error]: PageNotFoundException: 페이지를 찾을 수 없습니다.
+    at C:\Users\이현우\library-project2\server\/app.js:199:48
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:91:12)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+23/02/23 09:30:26 244 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 46ms
+23/02/23 09:30:26 245 [debug]: --------------------------------
+23/02/23 09:32:41 539 [debug]: -------------------------------
+23/02/23 09:32:41 541 [debug]: |     Start Express Server     |
+23/02/23 09:32:41 542 [debug]: -------------------------------
+23/02/23 09:32:41 543 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:32:41 543 [debug]: -------------------------------
+23/02/23 09:32:43 784 [debug]: 클라이언트가 접속했습니다.
+23/02/23 09:32:43 785 [debug]: [GET] http://172.30.1.23:3001/session
+23/02/23 09:32:43 786 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 09:32:43 805 [debug]: [session] cookie=[object Object]
+23/02/23 09:32:43 810 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 25ms
+23/02/23 09:32:43 810 [debug]: --------------------------------
+23/02/23 09:36:49 014 [debug]: -------------------------------
+23/02/23 09:36:49 017 [debug]: |     Start Express Server     |
+23/02/23 09:36:49 018 [debug]: -------------------------------
+23/02/23 09:36:49 018 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:36:49 019 [debug]: -------------------------------
+23/02/23 09:36:53 376 [debug]: 클라이언트가 접속했습니다.
+23/02/23 09:36:53 377 [debug]: [GET] http://172.30.1.23:3001/session
+23/02/23 09:36:53 378 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 09:36:53 394 [debug]: [session] cookie=[object Object]
+23/02/23 09:36:53 400 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 23ms
+23/02/23 09:36:53 401 [debug]: --------------------------------
+23/02/23 09:47:56 166 [debug]: -------------------------------
+23/02/23 09:47:56 168 [debug]: |     Start Express Server     |
+23/02/23 09:47:56 170 [debug]: -------------------------------
+23/02/23 09:47:56 171 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:47:56 171 [debug]: -------------------------------
+23/02/23 09:48:47 365 [debug]: -------------------------------
+23/02/23 09:48:47 368 [debug]: |     Start Express Server     |
+23/02/23 09:48:47 369 [debug]: -------------------------------
+23/02/23 09:48:47 369 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:48:47 370 [debug]: -------------------------------
+23/02/23 09:49:12 508 [debug]: -------------------------------
+23/02/23 09:49:12 511 [debug]: |     Start Express Server     |
+23/02/23 09:49:12 511 [debug]: -------------------------------
+23/02/23 09:49:12 512 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:49:12 512 [debug]: -------------------------------
+23/02/23 09:49:58 599 [debug]: -------------------------------
+23/02/23 09:49:58 602 [debug]: |     Start Express Server     |
+23/02/23 09:49:58 602 [debug]: -------------------------------
+23/02/23 09:49:58 603 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:49:58 604 [debug]: -------------------------------
+23/02/23 09:50:01 989 [debug]: -------------------------------
+23/02/23 09:50:01 992 [debug]: |     Start Express Server     |
+23/02/23 09:50:01 993 [debug]: -------------------------------
+23/02/23 09:50:01 993 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:50:01 994 [debug]: -------------------------------
+23/02/23 09:50:09 764 [debug]: 클라이언트가 접속했습니다.
+23/02/23 09:50:09 765 [debug]: [GET] http://172.30.1.23:3001/department
+23/02/23 09:50:09 766 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 09:50:09 796 [error]: PageNotFoundException: 페이지를 찾을 수 없습니다.
+    at C:\Users\이현우\library-project2\server\/app.js:201:48
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:91:12)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+23/02/23 09:50:09 801 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 36ms
+23/02/23 09:50:09 802 [debug]: --------------------------------
+23/02/23 09:50:38 767 [debug]: -------------------------------
+23/02/23 09:50:38 770 [debug]: |     Start Express Server     |
+23/02/23 09:50:38 770 [debug]: -------------------------------
+23/02/23 09:50:38 771 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:50:38 771 [debug]: -------------------------------
+23/02/23 09:50:44 893 [debug]: -------------------------------
+23/02/23 09:50:44 896 [debug]: |     Start Express Server     |
+23/02/23 09:50:44 897 [debug]: -------------------------------
+23/02/23 09:50:44 897 [debug]: server address => http://172.30.1.23:3001
+23/02/23 09:50:44 898 [debug]: -------------------------------
+23/02/23 10:07:21 430 [debug]: -------------------------------
+23/02/23 10:07:21 433 [debug]: |     Start Express Server     |
+23/02/23 10:07:21 434 [debug]: -------------------------------
+23/02/23 10:07:21 435 [debug]: server address => http://172.30.1.23:3001
+23/02/23 10:07:21 435 [debug]: -------------------------------
+23/02/23 10:07:25 224 [debug]: -------------------------------
+23/02/23 10:07:25 226 [debug]: |     Start Express Server     |
+23/02/23 10:07:25 227 [debug]: -------------------------------
+23/02/23 10:07:25 228 [debug]: server address => http://172.30.1.23:3001
+23/02/23 10:07:25 228 [debug]: -------------------------------
+23/02/23 10:07:27 160 [debug]: 클라이언트가 접속했습니다.
+23/02/23 10:07:27 161 [debug]: [GET] http://172.30.1.23:3001/department
+23/02/23 10:07:27 162 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 10:07:27 231 [error]: TypeError: DBPool.getConnection is not a function
+    at call (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:161:28)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1
+    at new Promise (<anonymous>)
+    at DepartmentService.apply (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at DepartmentService.getCount (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:176:4)
+    at call (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:30:50)
+    at tryCatch (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1
+    at new Promise (<anonymous>)
+    at apply (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:42:4
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\이현우\library-project2\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Immediate.<anonymous> (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:473:21)
+23/02/23 10:07:27 236 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 75ms
+23/02/23 10:07:27 237 [debug]: --------------------------------
+23/02/23 10:07:45 856 [debug]: -------------------------------
+23/02/23 10:07:45 859 [debug]: |     Start Express Server     |
+23/02/23 10:07:45 860 [debug]: -------------------------------
+23/02/23 10:07:45 861 [debug]: server address => http://172.30.1.23:3001
+23/02/23 10:07:45 862 [debug]: -------------------------------
+23/02/23 10:07:57 698 [debug]: -------------------------------
+23/02/23 10:07:57 701 [debug]: |     Start Express Server     |
+23/02/23 10:07:57 701 [debug]: -------------------------------
+23/02/23 10:07:57 702 [debug]: server address => http://172.30.1.23:3001
+23/02/23 10:07:57 703 [debug]: -------------------------------
+23/02/23 10:07:59 595 [debug]: 클라이언트가 접속했습니다.
+23/02/23 10:07:59 596 [debug]: [GET] http://172.30.1.23:3001/department
+23/02/23 10:07:59 597 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 10:07:59 632 [info]:  >> DATABASE 접속됨 [threaId=132]
+23/02/23 10:07:59 633 [info]:  >> Connection 임대됨 [threadId=132]
+23/02/23 10:07:59 636 [debug]: SELECT COUNT(*) AS cnt FROM department
+23/02/23 10:07:59 643 [info]:  >> Connection 반납됨 [threadId=132]
+23/02/23 10:07:59 672 [error]: ReferenceError: pageInfo is not defined
+    at call (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:31:15)
+    at tryCatch (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 10:07:59 678 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 82ms
+23/02/23 10:07:59 680 [debug]: --------------------------------
+23/02/23 10:08:20 174 [debug]: -------------------------------
+23/02/23 10:08:20 176 [debug]: |     Start Express Server     |
+23/02/23 10:08:20 177 [debug]: -------------------------------
+23/02/23 10:08:20 178 [debug]: server address => http://172.30.1.23:3001
+23/02/23 10:08:20 178 [debug]: -------------------------------
+23/02/23 10:08:21 880 [debug]: 클라이언트가 접속했습니다.
+23/02/23 10:08:21 882 [debug]: [GET] http://172.30.1.23:3001/department
+23/02/23 10:08:21 882 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 10:08:21 918 [info]:  >> DATABASE 접속됨 [threaId=134]
+23/02/23 10:08:21 919 [info]:  >> Connection 임대됨 [threadId=134]
+23/02/23 10:08:21 922 [debug]: SELECT COUNT(*) AS cnt FROM department
+23/02/23 10:08:21 927 [info]:  >> Connection 반납됨 [threadId=134]
+23/02/23 10:08:37 770 [debug]: -------------------------------
+23/02/23 10:08:37 773 [debug]: |     Start Express Server     |
+23/02/23 10:08:37 774 [debug]: -------------------------------
+23/02/23 10:08:37 774 [debug]: server address => http://172.30.1.23:3001
+23/02/23 10:08:37 775 [debug]: -------------------------------
+23/02/23 10:08:40 291 [debug]: 클라이언트가 접속했습니다.
+23/02/23 10:08:40 293 [debug]: [GET] http://172.30.1.23:3001/department
+23/02/23 10:08:40 293 [debug]: [clinet] ::ffff:172.30.1.23 / unknown / insomnia (2022.7.5) / unknown
+23/02/23 10:08:40 331 [info]:  >> DATABASE 접속됨 [threaId=136]
+23/02/23 10:08:40 332 [info]:  >> Connection 임대됨 [threadId=136]
+23/02/23 10:08:40 335 [debug]: SELECT COUNT(*) AS cnt FROM department
+23/02/23 10:08:40 339 [info]:  >> Connection 반납됨 [threadId=136]
+23/02/23 10:08:40 348 [error]: ReferenceError: pageInfo is not defined
+    at call (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:31:15)
+    at tryCatch (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\controllers\/DepartmentController.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 10:08:40 353 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 61ms
+23/02/23 10:08:40 353 [debug]: --------------------------------
+23/02/23 10:09:08 885 [debug]: -------------------------------
+23/02/23 10:09:08 888 [debug]: |     Start Express Server     |
+23/02/23 10:09:08 888 [debug]: -------------------------------
+23/02/23 10:09:08 889 [debug]: server address => http://172.30.1.23:3001
+23/02/23 10:09:08 889 [debug]: -------------------------------
+23/02/23 13:09:12 424 [debug]: -------------------------------
+23/02/23 13:09:12 426 [debug]: |     Start Express Server     |
+23/02/23 13:09:12 427 [debug]: -------------------------------
+23/02/23 13:09:12 427 [debug]: server address => http://172.30.1.9:3001
+23/02/23 13:09:12 427 [debug]: -------------------------------
+23/02/23 13:09:36 089 [debug]: -------------------------------
+23/02/23 13:09:36 095 [debug]: |     Start Express Server     |
+23/02/23 13:09:36 098 [debug]: -------------------------------
+23/02/23 13:09:36 114 [debug]: server address => http://172.30.1.9:3001
+23/02/23 13:09:36 133 [debug]: -------------------------------
+23/02/23 13:09:43 031 [debug]: -------------------------------
+23/02/23 13:09:43 034 [debug]: |     Start Express Server     |
+23/02/23 13:09:43 034 [debug]: -------------------------------
+23/02/23 13:09:43 035 [debug]: server address => http://172.30.1.9:3001
+23/02/23 13:09:43 035 [debug]: -------------------------------
+23/02/23 13:09:45 342 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:09:45 346 [debug]: [GET] http://172.30.1.9:3001/
+23/02/23 13:09:45 351 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:09:45 365 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 20ms
+23/02/23 13:09:45 372 [debug]: --------------------------------
+23/02/23 13:09:45 462 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:09:45 491 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:09:53 403 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:09:53 404 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:09:53 404 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:09:53 407 [error]: PageNotFoundException: 페이지를 찾을 수 없습니다.
+    at C:\Users\이현우\library-project2\server\/app.js:198:48
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:286:9
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle [as handle_request] (C:\Users\이현우\library-project2\node_modules\express\lib\router\layer.js:91:12)
+    at trim_prefix (C:\Users\이현우\library-project2\node_modules\express\lib\router\index.js:328:13)
+23/02/23 13:09:53 409 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:09:53 409 [debug]: --------------------------------
+23/02/23 13:10:39 887 [debug]: -------------------------------
+23/02/23 13:10:39 890 [debug]: |     Start Express Server     |
+23/02/23 13:10:39 891 [debug]: -------------------------------
+23/02/23 13:10:39 891 [debug]: server address => http://172.30.1.9:3001
+23/02/23 13:10:39 892 [debug]: -------------------------------
+23/02/23 13:13:22 148 [debug]: -------------------------------
+23/02/23 13:13:22 151 [debug]: |     Start Express Server     |
+23/02/23 13:13:22 153 [debug]: -------------------------------
+23/02/23 13:13:22 153 [debug]: server address => http://172.30.1.9:3001
+23/02/23 13:13:22 154 [debug]: -------------------------------
+23/02/23 13:13:26 695 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:13:26 697 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:13:26 723 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:13:26 747 [error]: Access denied for user 'user1'@'localhost' to database 'lbproject'
+23/02/23 13:13:26 750 [error]: Error: Access denied for user 'user1'@'localhost' to database 'lbproject'
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:13:26 755 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 59ms
+23/02/23 13:13:26 755 [debug]: --------------------------------
+23/02/23 13:20:34 361 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:20:34 363 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:20:34 363 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:20:34 369 [error]: Access denied for user 'user1'@'localhost' (using password: YES)
+23/02/23 13:20:34 370 [error]: Error: Access denied for user 'user1'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:20:34 372 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 10ms
+23/02/23 13:20:34 372 [debug]: --------------------------------
+23/02/23 13:20:35 404 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:20:35 404 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:20:35 405 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:20:35 409 [error]: Access denied for user 'user1'@'localhost' (using password: YES)
+23/02/23 13:20:35 410 [error]: Error: Access denied for user 'user1'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:20:35 412 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 8ms
+23/02/23 13:20:35 412 [debug]: --------------------------------
+23/02/23 13:21:15 654 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:21:15 655 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:21:15 655 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:21:15 658 [error]: Access denied for user 'user1'@'localhost' (using password: YES)
+23/02/23 13:21:15 658 [error]: Error: Access denied for user 'user1'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:21:15 659 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 5ms
+23/02/23 13:21:15 659 [debug]: --------------------------------
+23/02/23 13:21:16 209 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:21:16 210 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:21:16 210 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:21:16 214 [error]: Access denied for user 'user1'@'localhost' (using password: YES)
+23/02/23 13:21:16 215 [error]: Error: Access denied for user 'user1'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:21:16 216 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:21:16 216 [debug]: --------------------------------
+23/02/23 13:21:16 984 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:21:16 985 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:21:16 986 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:21:16 989 [error]: Access denied for user 'user1'@'localhost' (using password: YES)
+23/02/23 13:21:16 989 [error]: Error: Access denied for user 'user1'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:21:16 991 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:21:16 991 [debug]: --------------------------------
+23/02/23 13:21:23 130 [debug]: -------------------------------
+23/02/23 13:21:23 132 [debug]: |     Start Express Server     |
+23/02/23 13:21:23 132 [debug]: -------------------------------
+23/02/23 13:21:23 133 [debug]: server address => http://172.30.1.9:3001
+23/02/23 13:21:23 133 [debug]: -------------------------------
+23/02/23 13:21:26 242 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:21:26 244 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:21:26 244 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:21:26 273 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:21:26 276 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:21:26 280 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 37ms
+23/02/23 13:21:26 281 [debug]: --------------------------------
+23/02/23 13:21:27 220 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:21:27 221 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:21:27 222 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:21:27 231 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:21:27 232 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:21:27 235 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 14ms
+23/02/23 13:21:27 235 [debug]: --------------------------------
+23/02/23 13:22:28 764 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:22:28 765 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:22:28 765 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:22:28 773 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:22:28 774 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:22:28 775 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 10ms
+23/02/23 13:22:28 776 [debug]: --------------------------------
+23/02/23 13:22:29 637 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:22:29 637 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:22:29 638 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:22:29 644 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:22:29 645 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:22:29 646 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 9ms
+23/02/23 13:22:29 646 [debug]: --------------------------------
+23/02/23 13:22:32 074 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:22:32 075 [debug]: [GET] http://172.30.1.9:3001/department
+23/02/23 13:22:32 076 [debug]: [clinet] ::ffff:172.30.1.9 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:22:32 083 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:22:32 084 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:22:32 085 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 10ms
+23/02/23 13:22:32 085 [debug]: --------------------------------
+23/02/23 13:23:42 691 [debug]: -------------------------------
+23/02/23 13:23:42 694 [debug]: |     Start Express Server     |
+23/02/23 13:23:42 695 [debug]: -------------------------------
+23/02/23 13:23:42 696 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:23:42 696 [debug]: -------------------------------
+23/02/23 13:23:44 750 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:23:44 752 [debug]: [GET] http://172.30.1.68:3001/
+23/02/23 13:23:44 753 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:23:44 764 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 13ms
+23/02/23 13:23:44 766 [debug]: --------------------------------
+23/02/23 13:23:44 862 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:23:44 882 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:23:53 363 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:23:53 364 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:23:53 364 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:23:53 389 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:23:53 391 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:23:53 395 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 31ms
+23/02/23 13:23:53 395 [debug]: --------------------------------
+23/02/23 13:25:12 824 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:25:12 826 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:25:12 826 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:25:12 835 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:25:12 836 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:25:12 837 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 11ms
+23/02/23 13:25:12 837 [debug]: --------------------------------
+23/02/23 13:25:13 363 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:25:13 364 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:25:13 364 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:25:13 372 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:25:13 373 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:25:13 374 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 10ms
+23/02/23 13:25:13 375 [debug]: --------------------------------
+23/02/23 13:27:34 699 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:27:34 699 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:27:34 700 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:27:34 703 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:27:34 704 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:27:34 705 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:27:34 705 [debug]: --------------------------------
+23/02/23 13:27:35 203 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:27:35 204 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:27:35 204 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:27:35 208 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:27:35 208 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:27:35 209 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:27:35 209 [debug]: --------------------------------
+23/02/23 13:27:53 886 [debug]: -------------------------------
+23/02/23 13:27:53 888 [debug]: |     Start Express Server     |
+23/02/23 13:27:53 888 [debug]: -------------------------------
+23/02/23 13:27:53 889 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:27:53 889 [debug]: -------------------------------
+23/02/23 13:27:56 008 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:27:56 010 [debug]: [GET] http://172.30.1.68:3001/
+23/02/23 13:27:56 010 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:27:56 022 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 13ms
+23/02/23 13:27:56 024 [debug]: --------------------------------
+23/02/23 13:27:56 096 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:28:01 553 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:28:01 553 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:28:01 554 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:28:01 577 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:28:01 581 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:28:01 584 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 31ms
+23/02/23 13:28:01 584 [debug]: --------------------------------
+23/02/23 13:28:26 376 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:28:26 377 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:28:26 377 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:28:26 381 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:28:26 382 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:28:26 382 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 5ms
+23/02/23 13:28:26 383 [debug]: --------------------------------
+23/02/23 13:28:26 851 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:28:26 851 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:28:26 852 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:28:26 855 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:28:26 856 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:28:26 857 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:28:26 857 [debug]: --------------------------------
+23/02/23 13:28:33 306 [debug]: -------------------------------
+23/02/23 13:28:33 308 [debug]: |     Start Express Server     |
+23/02/23 13:28:33 309 [debug]: -------------------------------
+23/02/23 13:28:33 309 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:28:33 310 [debug]: -------------------------------
+23/02/23 13:28:38 263 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:28:38 269 [debug]: [GET] http://172.30.1.68:3001/
+23/02/23 13:28:38 269 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:28:38 278 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 11ms
+23/02/23 13:28:38 279 [debug]: --------------------------------
+23/02/23 13:28:38 375 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:28:42 501 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:28:42 502 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:28:42 502 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:28:42 522 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:28:42 525 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:28:42 527 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 25ms
+23/02/23 13:28:42 527 [debug]: --------------------------------
+23/02/23 13:31:37 710 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:31:37 711 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:31:37 711 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:31:37 716 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:31:37 716 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:31:37 717 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:31:37 718 [debug]: --------------------------------
+23/02/23 13:33:27 867 [debug]: -------------------------------
+23/02/23 13:33:27 869 [debug]: |     Start Express Server     |
+23/02/23 13:33:27 870 [debug]: -------------------------------
+23/02/23 13:33:27 870 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:33:27 871 [debug]: -------------------------------
+23/02/23 13:33:30 243 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:33:30 245 [debug]: [GET] http://172.30.1.68:3001/
+23/02/23 13:33:30 246 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:33:30 256 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 12ms
+23/02/23 13:33:30 259 [debug]: --------------------------------
+23/02/23 13:33:30 350 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:33:41 625 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:33:41 627 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:33:41 627 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:33:41 653 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:33:41 657 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:33:41 660 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 34ms
+23/02/23 13:33:41 661 [debug]: --------------------------------
+23/02/23 13:35:18 622 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:18 623 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:18 623 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:18 626 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:18 626 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:18 627 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 4ms
+23/02/23 13:35:18 628 [debug]: --------------------------------
+23/02/23 13:35:19 100 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:19 101 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:19 101 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:19 105 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:19 105 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:19 106 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:35:19 106 [debug]: --------------------------------
+23/02/23 13:35:19 410 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:19 410 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:19 411 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:19 414 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:19 414 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:19 415 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 5ms
+23/02/23 13:35:19 415 [debug]: --------------------------------
+23/02/23 13:35:19 664 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:19 664 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:19 665 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:19 670 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:19 670 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:19 671 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 7ms
+23/02/23 13:35:19 671 [debug]: --------------------------------
+23/02/23 13:35:19 937 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:19 937 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:19 937 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:19 940 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:19 941 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:19 942 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 5ms
+23/02/23 13:35:19 943 [debug]: --------------------------------
+23/02/23 13:35:20 230 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:20 231 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:20 231 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:20 236 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:20 236 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:20 237 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:35:20 238 [debug]: --------------------------------
+23/02/23 13:35:20 496 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:20 496 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:20 496 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:20 500 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:20 501 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:20 502 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/02/23 13:35:20 502 [debug]: --------------------------------
+23/02/23 13:35:20 879 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:20 879 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:20 880 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:20 883 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:20 885 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:20 886 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 7ms
+23/02/23 13:35:20 886 [debug]: --------------------------------
+23/02/23 13:35:41 998 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:41 998 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:41 999 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:42 002 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:42 004 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:35:42 005 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 7ms
+23/02/23 13:35:42 005 [debug]: --------------------------------
+23/02/23 13:35:49 698 [debug]: -------------------------------
+23/02/23 13:35:49 700 [debug]: |     Start Express Server     |
+23/02/23 13:35:49 701 [debug]: -------------------------------
+23/02/23 13:35:49 701 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:35:49 701 [debug]: -------------------------------
+23/02/23 13:35:52 036 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:52 039 [debug]: [GET] http://172.30.1.68:3001/
+23/02/23 13:35:52 039 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:52 050 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 12ms
+23/02/23 13:35:52 051 [debug]: --------------------------------
+23/02/23 13:35:52 147 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:59 419 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:35:59 420 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:35:59 421 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:35:59 444 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:35:59 447 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+23/02/23 13:35:59 450 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 30ms
+23/02/23 13:35:59 450 [debug]: --------------------------------
+23/02/23 13:43:14 692 [debug]: -------------------------------
+23/02/23 13:43:14 695 [debug]: |     Start Express Server     |
+23/02/23 13:43:14 696 [debug]: -------------------------------
+23/02/23 13:43:14 696 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:43:14 697 [debug]: -------------------------------
+23/02/23 13:43:32 112 [debug]: -------------------------------
+23/02/23 13:43:32 115 [debug]: |     Start Express Server     |
+23/02/23 13:43:32 115 [debug]: -------------------------------
+23/02/23 13:43:32 116 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:43:32 116 [debug]: -------------------------------
+23/02/23 13:43:40 012 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:43:40 013 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:43:40 014 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:43:40 037 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:43:40 040 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:43:40 044 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 31ms
+23/02/23 13:43:40 045 [debug]: --------------------------------
+23/02/23 13:43:43 301 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:43:43 302 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:43:43 303 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:43:43 314 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:43:43 315 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:43:43 316 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 14ms
+23/02/23 13:43:43 317 [debug]: --------------------------------
+23/02/23 13:43:43 807 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:43:43 808 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:43:43 809 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:43:43 814 [error]: Access denied for user 'library123'@'localhost' (using password: YES)
+23/02/23 13:43:43 815 [error]: Error: Access denied for user 'library123'@'localhost' (using password: YES)
+    at Packet.asError (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at ClientHandshake.execute (C:\Users\이현우\library-project2\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:488:32)
+    at PacketParser.onPacket (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:94:12)
+    at PacketParser.executeStart (C:\Users\이현우\library-project2\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\이현우\library-project2\node_modules\mysql2\lib\connection.js:101:25)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Socket.Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+23/02/23 13:43:43 816 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 8ms
+23/02/23 13:43:43 817 [debug]: --------------------------------
+23/02/23 13:43:50 221 [debug]: -------------------------------
+23/02/23 13:43:50 223 [debug]: |     Start Express Server     |
+23/02/23 13:43:50 223 [debug]: -------------------------------
+23/02/23 13:43:50 223 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:43:50 224 [debug]: -------------------------------
+23/02/23 13:44:01 687 [debug]: -------------------------------
+23/02/23 13:44:01 690 [debug]: |     Start Express Server     |
+23/02/23 13:44:01 690 [debug]: -------------------------------
+23/02/23 13:44:01 691 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:44:01 691 [debug]: -------------------------------
+23/02/23 13:44:37 080 [debug]: -------------------------------
+23/02/23 13:44:37 082 [debug]: |     Start Express Server     |
+23/02/23 13:44:37 083 [debug]: -------------------------------
+23/02/23 13:44:37 083 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:44:37 084 [debug]: -------------------------------
+23/02/23 13:44:39 779 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:44:39 780 [debug]: [GET] http://172.30.1.68:3001/
+23/02/23 13:44:39 781 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:44:39 792 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 11ms
+23/02/23 13:44:39 793 [debug]: --------------------------------
+23/02/23 13:44:39 898 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:44:45 011 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:44:45 011 [debug]: [GET] http://172.30.1.68:3001/department
+23/02/23 13:44:45 012 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:44:45 030 [info]:  >> DATABASE 접속됨 [threaId=206]
+23/02/23 13:44:45 030 [info]:  >> Connection 임대됨 [threadId=206]
+23/02/23 13:44:45 033 [debug]: SELECT COUNT(*) AS cnt FROM department
+23/02/23 13:44:45 036 [info]:  >> Connection 반납됨 [threadId=206]
+23/02/23 13:44:45 053 [error]: Error: Table 'lbproject.department' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:163:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/DepartmentService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 13:44:45 058 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 47ms
+23/02/23 13:44:45 058 [debug]: --------------------------------
+23/02/23 13:52:15 267 [debug]: -------------------------------
+23/02/23 13:52:15 269 [debug]: |     Start Express Server     |
+23/02/23 13:52:15 270 [debug]: -------------------------------
+23/02/23 13:52:15 270 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:52:15 271 [debug]: -------------------------------
+23/02/23 13:52:27 372 [debug]: -------------------------------
+23/02/23 13:52:27 374 [debug]: |     Start Express Server     |
+23/02/23 13:52:27 374 [debug]: -------------------------------
+23/02/23 13:52:27 375 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:52:27 376 [debug]: -------------------------------
+23/02/23 13:52:29 528 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:52:29 534 [debug]: [GET] http://172.30.1.68:3001/
+23/02/23 13:52:29 535 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:52:29 542 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 9ms
+23/02/23 13:52:29 545 [debug]: --------------------------------
+23/02/23 13:52:29 635 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:52:33 766 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:52:33 766 [debug]: [GET] http://172.30.1.68:3001/category
+23/02/23 13:52:33 767 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:52:33 787 [info]:  >> DATABASE 접속됨 [threaId=209]
+23/02/23 13:52:33 788 [info]:  >> Connection 임대됨 [threadId=209]
+23/02/23 13:52:33 793 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/02/23 13:52:33 798 [info]:  >> Connection 반납됨 [threadId=209]
+23/02/23 13:52:33 807 [error]: ReferenceError: pageInfo is not defined
+    at call (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:31:15)
+    at tryCatch (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 13:52:33 812 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 46ms
+23/02/23 13:52:33 813 [debug]: --------------------------------
+23/02/23 13:53:08 365 [debug]: -------------------------------
+23/02/23 13:53:08 367 [debug]: |     Start Express Server     |
+23/02/23 13:53:08 368 [debug]: -------------------------------
+23/02/23 13:53:08 368 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:53:08 369 [debug]: -------------------------------
+23/02/23 13:53:24 136 [debug]: -------------------------------
+23/02/23 13:53:24 139 [debug]: |     Start Express Server     |
+23/02/23 13:53:24 139 [debug]: -------------------------------
+23/02/23 13:53:24 140 [debug]: server address => http://172.30.1.68:3001
+23/02/23 13:53:24 140 [debug]: -------------------------------
+23/02/23 13:53:27 794 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:53:27 796 [debug]: [GET] http://172.30.1.68:3001/
+23/02/23 13:53:27 796 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:53:27 802 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 7ms
+23/02/23 13:53:27 803 [debug]: --------------------------------
+23/02/23 13:53:30 487 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:53:30 487 [debug]: [GET] http://172.30.1.68:3001/category
+23/02/23 13:53:30 488 [debug]: [clinet] ::ffff:172.30.1.68 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:53:30 511 [info]:  >> DATABASE 접속됨 [threaId=212]
+23/02/23 13:53:30 511 [info]:  >> Connection 임대됨 [threadId=212]
+23/02/23 13:53:30 516 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/02/23 13:53:30 520 [info]:  >> Connection 반납됨 [threadId=212]
+23/02/23 13:53:30 526 [error]: ReferenceError: pageInfo is not defined
+    at call (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:31:15)
+    at tryCatch (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\controllers\/CategoryController.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 13:53:30 530 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 42ms
+23/02/23 13:53:30 530 [debug]: --------------------------------
+23/02/23 13:54:46 356 [debug]: -------------------------------
+23/02/23 13:54:46 358 [debug]: |     Start Express Server     |
+23/02/23 13:54:46 359 [debug]: -------------------------------
+23/02/23 13:54:46 359 [debug]: server address => http://172.30.1.50:3001
+23/02/23 13:54:46 359 [debug]: -------------------------------
+23/02/23 13:55:11 393 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:55:11 395 [debug]: [GET] http://172.30.1.50:3001/
+23/02/23 13:55:11 396 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:55:11 404 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 10ms
+23/02/23 13:55:11 406 [debug]: --------------------------------
+23/02/23 13:55:11 486 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:55:11 496 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:55:14 709 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:55:14 710 [debug]: [GET] http://172.30.1.50:3001/category
+23/02/23 13:55:14 710 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:55:14 732 [info]:  >> DATABASE 접속됨 [threaId=214]
+23/02/23 13:55:14 733 [info]:  >> Connection 임대됨 [threadId=214]
+23/02/23 13:55:14 737 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/02/23 13:55:14 741 [info]:  >> Connection 반납됨 [threadId=214]
+23/02/23 13:55:14 742 [info]:  >> Connection 임대됨 [threadId=214]
+23/02/23 13:55:14 744 [debug]: SELECT deptno, dname, loc FROM category        ORDER BY deptno DESC
+23/02/23 13:55:14 745 [info]:  >> Connection 반납됨 [threadId=214]
+23/02/23 13:55:14 771 [error]: Error: Unknown column 'deptno' in 'field list'
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 13:55:14 775 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 65ms
+23/02/23 13:55:14 776 [debug]: --------------------------------
+23/02/23 13:55:48 264 [debug]: -------------------------------
+23/02/23 13:55:48 267 [debug]: |     Start Express Server     |
+23/02/23 13:55:48 267 [debug]: -------------------------------
+23/02/23 13:55:48 268 [debug]: server address => http://172.30.1.50:3001
+23/02/23 13:55:48 268 [debug]: -------------------------------
+23/02/23 13:56:25 250 [debug]: -------------------------------
+23/02/23 13:56:25 252 [debug]: |     Start Express Server     |
+23/02/23 13:56:25 253 [debug]: -------------------------------
+23/02/23 13:56:25 254 [debug]: server address => http://172.30.1.50:3001
+23/02/23 13:56:25 254 [debug]: -------------------------------
+23/02/23 13:56:27 014 [debug]: 클라이언트가 접속했습니다.
+23/02/23 13:56:27 016 [debug]: [GET] http://172.30.1.50:3001/category
+23/02/23 13:56:27 016 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 13:56:27 036 [info]:  >> DATABASE 접속됨 [threaId=217]
+23/02/23 13:56:27 037 [info]:  >> Connection 임대됨 [threadId=217]
+23/02/23 13:56:27 041 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/02/23 13:56:27 045 [info]:  >> Connection 반납됨 [threadId=217]
+23/02/23 13:56:27 046 [info]:  >> Connection 임대됨 [threadId=217]
+23/02/23 13:56:27 047 [debug]: SELECT ctgNo, dname, loc FROM category        ORDER BY ctgNo DESC
+23/02/23 13:56:27 048 [info]:  >> Connection 반납됨 [threadId=217]
+23/02/23 13:56:27 064 [error]: Error: Unknown column 'dname' in 'field list'
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 13:56:27 068 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 53ms
+23/02/23 13:56:27 068 [debug]: --------------------------------
+23/02/23 14:02:51 685 [debug]: -------------------------------
+23/02/23 14:02:51 687 [debug]: |     Start Express Server     |
+23/02/23 14:02:51 688 [debug]: -------------------------------
+23/02/23 14:02:51 688 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:02:51 689 [debug]: -------------------------------
+23/02/23 14:03:20 531 [debug]: -------------------------------
+23/02/23 14:03:20 533 [debug]: |     Start Express Server     |
+23/02/23 14:03:20 534 [debug]: -------------------------------
+23/02/23 14:03:20 535 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:03:20 535 [debug]: -------------------------------
+23/02/23 14:03:20 834 [debug]: 클라이언트가 접속했습니다.
+23/02/23 14:03:20 836 [debug]: [GET] http://172.30.1.50:3001/
+23/02/23 14:03:20 837 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 14:03:20 845 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 10ms
+23/02/23 14:03:20 848 [debug]: --------------------------------
+23/02/23 14:03:26 625 [debug]: 클라이언트가 접속했습니다.
+23/02/23 14:03:26 625 [debug]: [GET] http://172.30.1.50:3001/category
+23/02/23 14:03:26 626 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 14:03:26 645 [info]:  >> DATABASE 접속됨 [threaId=220]
+23/02/23 14:03:26 645 [info]:  >> Connection 임대됨 [threadId=220]
+23/02/23 14:03:26 648 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/02/23 14:03:26 653 [info]:  >> Connection 반납됨 [threadId=220]
+23/02/23 14:03:26 654 [info]:  >> Connection 임대됨 [threadId=220]
+23/02/23 14:03:26 655 [debug]: SELECT ctgNo, dname, loc FROM category        ORDER BY ctgNo DESC
+23/02/23 14:03:26 655 [info]:  >> Connection 반납됨 [threadId=220]
+23/02/23 14:03:26 663 [error]: Error: Unknown column 'dname' in 'field list'
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 14:03:26 665 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 40ms
+23/02/23 14:03:26 666 [debug]: --------------------------------
+23/02/23 14:03:58 643 [debug]: -------------------------------
+23/02/23 14:03:58 646 [debug]: |     Start Express Server     |
+23/02/23 14:03:58 647 [debug]: -------------------------------
+23/02/23 14:03:58 647 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:03:58 648 [debug]: -------------------------------
+23/02/23 14:04:01 048 [debug]: 클라이언트가 접속했습니다.
+23/02/23 14:04:01 050 [debug]: [GET] http://172.30.1.50:3001/
+23/02/23 14:04:01 051 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 14:04:01 058 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 9ms
+23/02/23 14:04:01 059 [debug]: --------------------------------
+23/02/23 14:04:04 460 [debug]: 클라이언트가 접속했습니다.
+23/02/23 14:04:04 461 [debug]: [GET] http://172.30.1.50:3001/category
+23/02/23 14:04:04 462 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 14:04:04 483 [info]:  >> DATABASE 접속됨 [threaId=222]
+23/02/23 14:04:04 484 [info]:  >> Connection 임대됨 [threadId=222]
+23/02/23 14:04:04 488 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/02/23 14:04:04 491 [info]:  >> Connection 반납됨 [threadId=222]
+23/02/23 14:04:04 492 [info]:  >> Connection 임대됨 [threadId=222]
+23/02/23 14:04:04 493 [debug]: SELECT ctgNo, ctgName, loc FROM category        ORDER BY ctgNo DESC
+23/02/23 14:04:04 494 [info]:  >> Connection 반납됨 [threadId=222]
+23/02/23 14:04:04 520 [error]: Error: Unknown column 'loc' in 'field list'
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 14:04:04 539 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 78ms
+23/02/23 14:04:04 540 [debug]: --------------------------------
+23/02/23 14:05:39 839 [debug]: -------------------------------
+23/02/23 14:05:39 842 [debug]: |     Start Express Server     |
+23/02/23 14:05:39 842 [debug]: -------------------------------
+23/02/23 14:05:39 843 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:05:39 843 [debug]: -------------------------------
+23/02/23 14:06:08 180 [debug]: 클라이언트가 접속했습니다.
+23/02/23 14:06:08 182 [debug]: [GET] http://172.30.1.50:3001/
+23/02/23 14:06:08 183 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 14:06:08 191 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 10ms
+23/02/23 14:06:08 192 [debug]: --------------------------------
+23/02/23 14:06:11 451 [debug]: 클라이언트가 접속했습니다.
+23/02/23 14:06:11 452 [debug]: [GET] http://172.30.1.50:3001/category
+23/02/23 14:06:11 452 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 14:06:11 474 [info]:  >> DATABASE 접속됨 [threaId=224]
+23/02/23 14:06:11 475 [info]:  >> Connection 임대됨 [threadId=224]
+23/02/23 14:06:11 478 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/02/23 14:06:11 483 [info]:  >> Connection 반납됨 [threadId=224]
+23/02/23 14:06:11 485 [info]:  >> Connection 임대됨 [threadId=224]
+23/02/23 14:06:11 487 [debug]: SELECT ctgNo, ctgName, loc FROM category        ORDER BY ctgNo DESC
+23/02/23 14:06:11 488 [info]:  >> Connection 반납됨 [threadId=224]
+23/02/23 14:06:11 509 [error]: Error: Unknown column 'loc' in 'field list'
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/02/23 14:06:11 512 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 60ms
+23/02/23 14:06:11 513 [debug]: --------------------------------
+23/02/23 14:06:48 168 [debug]: 백엔드가 종료되었습니다.
+23/02/23 14:06:51 738 [debug]: -------------------------------
+23/02/23 14:06:51 740 [debug]: |     Start Express Server     |
+23/02/23 14:06:51 740 [debug]: -------------------------------
+23/02/23 14:06:51 741 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:06:51 741 [debug]: -------------------------------
+23/02/23 14:06:54 565 [debug]: 클라이언트가 접속했습니다.
+23/02/23 14:06:54 567 [debug]: [GET] http://172.30.1.50:3001/
+23/02/23 14:06:54 568 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 14:06:54 574 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 8ms
+23/02/23 14:06:54 575 [debug]: --------------------------------
+23/02/23 14:07:00 054 [debug]: 클라이언트가 접속했습니다.
+23/02/23 14:07:00 055 [debug]: [GET] http://172.30.1.50:3001/category
+23/02/23 14:07:00 056 [debug]: [clinet] ::ffff:172.30.1.50 / Windows 10.0 / Firefox (110.0) / Microsoft Windows
+23/02/23 14:07:00 083 [info]:  >> DATABASE 접속됨 [threaId=226]
+23/02/23 14:07:00 084 [info]:  >> Connection 임대됨 [threadId=226]
+23/02/23 14:07:00 087 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/02/23 14:07:00 090 [info]:  >> Connection 반납됨 [threadId=226]
+23/02/23 14:07:00 091 [info]:  >> Connection 임대됨 [threadId=226]
+23/02/23 14:07:00 092 [debug]: SELECT ctgNo, ctgName FROM category        ORDER BY ctgNo DESC
+23/02/23 14:07:00 094 [info]:  >> Connection 반납됨 [threadId=226]
+23/02/23 14:07:00 098 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 43ms
+23/02/23 14:07:00 098 [debug]: --------------------------------
+23/02/23 14:11:45 524 [debug]: -------------------------------
+23/02/23 14:11:45 526 [debug]: |     Start Express Server     |
+23/02/23 14:11:45 526 [debug]: -------------------------------
+23/02/23 14:11:45 527 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:11:45 527 [debug]: -------------------------------
+23/02/23 14:11:53 181 [debug]: -------------------------------
+23/02/23 14:11:53 183 [debug]: |     Start Express Server     |
+23/02/23 14:11:53 184 [debug]: -------------------------------
+23/02/23 14:11:53 186 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:11:53 186 [debug]: -------------------------------
+23/02/23 14:13:03 162 [debug]: -------------------------------
+23/02/23 14:13:03 164 [debug]: |     Start Express Server     |
+23/02/23 14:13:03 165 [debug]: -------------------------------
+23/02/23 14:13:03 165 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:13:03 165 [debug]: -------------------------------
+23/02/23 14:13:12 459 [debug]: -------------------------------
+23/02/23 14:13:12 461 [debug]: |     Start Express Server     |
+23/02/23 14:13:12 461 [debug]: -------------------------------
+23/02/23 14:13:12 462 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:13:12 462 [debug]: -------------------------------
+23/02/23 14:15:16 867 [debug]: -------------------------------
+23/02/23 14:15:16 869 [debug]: |     Start Express Server     |
+23/02/23 14:15:16 870 [debug]: -------------------------------
+23/02/23 14:15:16 871 [debug]: server address => http://172.30.1.50:3001
+23/02/23 14:15:16 871 [debug]: -------------------------------
+23/02/23 16:29:43 966 [debug]: -------------------------------
+23/02/23 16:29:43 969 [debug]: |     Start Express Server     |
+23/02/23 16:29:43 970 [debug]: -------------------------------
+23/02/23 16:29:43 971 [debug]: server address => http://172.30.1.67:3001
+23/02/23 16:29:43 971 [debug]: -------------------------------

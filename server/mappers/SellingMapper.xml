@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="SellingMapper">
+
+    <!-- 단일행 조회를 위한 기능 정의 -->
+    <select id="selectItem">
+        SELECT DATE_FORMAT(sellDate, '%Y-%m-%d') as sellDate, amount, bookNo FROM selling WHERE sellNo= #{sellNo}
+    </select>
+
+    <!-- 다중행 조회를 위한 기능 정의 -->
+    <select id="selectList">
+        SELECT DATE_FORMAT(sellDate, '%Y-%m-%d') as sellDate, amount, bookNo FROM selling
+        <where>
+            <if test="sellDate != null and sellDate != ''">`
+                sellDate LIKE concat('%', #{sellDate}, '%')
+            </if>
+        </where>
+
+        ORDER BY sellDate ASC
+
+        <!-- 페이지 구현을 위한 LIMIT절 추가 -->
+        <if test="listCount > 0">
+            LIMIT ${offset}, ${listCount}
+        </if>
+    </select>
+
+    <!-- 데이터 저장을 위한 기능 정의 -->
+    <insert id="insertItem">
+        INSERT INTO selling
+            (sellDate, amount, bookNo)
+        VALUES 
+            (#{sellDate}, #{amount}, #{bookNo});
+    </insert>
+
+    <!-- 데이터 삭제를 위한 기능 정의 -->
+    <delete id="deleteItem">
+        DELETE FROM selling WHERE sellNo=#{sellNo}
+    </delete>
+
+    <!-- 데이터 갱신을 위한 기능 정의 -->
+    <update id="updateItem">
+        UPDATE selling SET 
+        sellDate = #{sellDate},
+        amount = #{amount},
+        bookNo = #{bookNo},
+        WHERE sellNo = #{sellNo}
+    </update>
+
+    <!-- 데이터 수 조회하기  -->
+    <select id="selectCountAll">
+        SELECT COUNT(*) AS cnt FROM selling
+
+        <where>
+            <if test="sellDate != null and sellDate != ''">
+                sellDate LIKE concat('%', #{sellDate}, '%')
+            </if>
+        </where>
+    </select>
+
+</mapper>

@@ -1,0 +1,234 @@
+23/03/04 07:58:06 596 [debug]: -------------------------------
+23/03/04 07:58:06 599 [debug]: |     Start Express Server     |
+23/03/04 07:58:06 599 [debug]: -------------------------------
+23/03/04 07:58:06 600 [debug]: server address => http://172.30.1.32:3001
+23/03/04 07:58:06 601 [debug]: -------------------------------
+23/03/04 07:58:21 616 [debug]: 클라이언트가 접속했습니다.
+23/03/04 07:58:21 619 [debug]: [GET] http://172.30.1.32:3001/
+23/03/04 07:58:21 620 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 07:58:21 630 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 13ms
+23/03/04 07:58:21 631 [debug]: --------------------------------
+23/03/04 07:58:21 740 [debug]: 클라이언트가 접속했습니다.
+23/03/04 07:58:24 867 [debug]: 클라이언트가 접속했습니다.
+23/03/04 07:58:24 867 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 07:58:24 868 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 07:58:24 915 [info]:  >> DATABASE 접속됨 [threaId=9]
+23/03/04 07:58:24 916 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 07:58:24 919 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 07:58:24 971 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 07:58:24 972 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 07:58:24 974 [debug]: SELECT ctgNo, ctgName FROM categor        ORDER BY ctgNo DESC
+23/03/04 07:58:24 975 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 07:58:24 991 [error]: Error: Table 'lbproject.categor' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/03/04 07:58:24 994 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 127ms
+23/03/04 07:58:24 994 [debug]: --------------------------------
+23/03/04 07:58:25 099 [debug]: 클라이언트가 접속했습니다.
+23/03/04 07:58:25 100 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 07:58:25 100 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 07:58:25 102 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 3ms
+23/03/04 07:58:25 102 [debug]: --------------------------------
+23/03/04 07:58:31 245 [debug]: 클라이언트가 접속했습니다.
+23/03/04 07:58:31 246 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 07:58:31 246 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 07:58:31 248 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 07:58:31 248 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 07:58:31 249 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 07:58:31 250 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 07:58:31 250 [debug]: SELECT ctgNo, ctgName FROM categor        ORDER BY ctgNo DESC
+23/03/04 07:58:31 251 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 07:58:31 252 [error]: Error: Table 'lbproject.categor' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/03/04 07:58:31 253 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 7ms
+23/03/04 07:58:31 253 [debug]: --------------------------------
+23/03/04 07:58:31 295 [debug]: 클라이언트가 접속했습니다.
+23/03/04 07:58:31 296 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 07:58:31 297 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 07:58:31 302 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 7ms
+23/03/04 07:58:31 302 [debug]: --------------------------------
+23/03/04 07:59:55 493 [debug]: 클라이언트가 접속했습니다.
+23/03/04 07:59:55 493 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 07:59:55 494 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 07:59:55 495 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 07:59:55 496 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 07:59:55 496 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 07:59:55 497 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 07:59:55 498 [debug]: SELECT ctgNo, ctgName FROM categor        ORDER BY ctgNo DESC
+23/03/04 07:59:55 498 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 07:59:55 500 [error]: Error: Table 'lbproject.categor' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/03/04 07:59:55 500 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 7ms
+23/03/04 07:59:55 501 [debug]: --------------------------------
+23/03/04 07:59:55 542 [debug]: 클라이언트가 접속했습니다.
+23/03/04 07:59:55 544 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 07:59:55 545 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 07:59:55 549 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 5ms
+23/03/04 07:59:55 551 [debug]: --------------------------------
+23/03/04 08:01:05 723 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:05 723 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 08:01:05 724 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:05 725 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:05 725 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 08:01:05 726 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:05 726 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:05 727 [debug]: SELECT ctgNo, ctgName FROM categor        ORDER BY ctgNo DESC
+23/03/04 08:01:05 727 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:05 728 [error]: Error: Table 'lbproject.categor' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/03/04 08:01:05 729 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 6ms
+23/03/04 08:01:05 729 [debug]: --------------------------------
+23/03/04 08:01:05 776 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:05 777 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 08:01:05 778 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:05 780 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 3ms
+23/03/04 08:01:05 780 [debug]: --------------------------------
+23/03/04 08:01:14 864 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:14 865 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 08:01:14 866 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:14 869 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:14 870 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 08:01:14 872 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:14 872 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:14 873 [debug]: SELECT ctgNo, ctgName FROM categor        ORDER BY ctgNo DESC
+23/03/04 08:01:14 874 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:14 874 [error]: Error: Table 'lbproject.categor' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/03/04 08:01:14 876 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 11ms
+23/03/04 08:01:14 876 [debug]: --------------------------------
+23/03/04 08:01:14 925 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:14 926 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 08:01:14 927 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:14 928 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 2ms
+23/03/04 08:01:14 928 [debug]: --------------------------------
+23/03/04 08:01:15 551 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:15 552 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 08:01:15 553 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:15 554 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:15 555 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 08:01:15 556 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:15 557 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:15 558 [debug]: SELECT ctgNo, ctgName FROM categor        ORDER BY ctgNo DESC
+23/03/04 08:01:15 559 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:15 559 [error]: Error: Table 'lbproject.categor' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/03/04 08:01:15 560 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 8ms
+23/03/04 08:01:15 560 [debug]: --------------------------------
+23/03/04 08:01:15 607 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:15 608 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 08:01:15 608 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:15 611 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 4ms
+23/03/04 08:01:15 611 [debug]: --------------------------------
+23/03/04 08:01:16 029 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:16 030 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 08:01:16 031 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:16 033 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:16 034 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 08:01:16 035 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:16 035 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:16 035 [debug]: SELECT ctgNo, ctgName FROM categor        ORDER BY ctgNo DESC
+23/03/04 08:01:16 036 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:16 037 [error]: Error: Table 'lbproject.categor' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/03/04 08:01:16 038 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 9ms
+23/03/04 08:01:16 038 [debug]: --------------------------------
+23/03/04 08:01:16 092 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:16 093 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 08:01:16 093 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:16 095 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 2ms
+23/03/04 08:01:16 095 [debug]: --------------------------------
+23/03/04 08:01:17 095 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:17 096 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 08:01:17 096 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:17 097 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:17 098 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 08:01:17 099 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:17 099 [info]:  >> Connection 임대됨 [threadId=9]
+23/03/04 08:01:17 099 [debug]: SELECT ctgNo, ctgName FROM categor        ORDER BY ctgNo DESC
+23/03/04 08:01:17 100 [info]:  >> Connection 반납됨 [threadId=9]
+23/03/04 08:01:17 101 [error]: Error: Table 'lbproject.categor' doesn't exist
+    at PromisePoolConnection.query (C:\Users\이현우\library-project2\node_modules\mysql2\promise.js:93:22)
+    at call (C:\Users\이현우\library-project2\server\services\/CategoryService.js:23:34)
+    at tryCatch (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator._invoke (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at Generator.next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at asyncGeneratorStep (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at _next (C:\Users\이현우\library-project2\server\services\/CategoryService.js:2:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+23/03/04 08:01:17 101 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 5ms
+23/03/04 08:01:17 102 [debug]: --------------------------------
+23/03/04 08:01:17 144 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:17 144 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 08:01:17 145 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:17 147 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 3ms
+23/03/04 08:01:17 147 [debug]: --------------------------------
+23/03/04 08:01:23 170 [debug]: -------------------------------
+23/03/04 08:01:23 173 [debug]: |     Start Express Server     |
+23/03/04 08:01:23 174 [debug]: -------------------------------
+23/03/04 08:01:23 174 [debug]: server address => http://172.30.1.32:3001
+23/03/04 08:01:23 174 [debug]: -------------------------------
+23/03/04 08:01:28 259 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:28 260 [debug]: [GET] http://172.30.1.32:3001/category
+23/03/04 08:01:28 261 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:28 282 [info]:  >> DATABASE 접속됨 [threaId=12]
+23/03/04 08:01:28 283 [info]:  >> Connection 임대됨 [threadId=12]
+23/03/04 08:01:28 287 [debug]: SELECT COUNT(*) AS cnt FROM category
+23/03/04 08:01:28 290 [info]:  >> Connection 반납됨 [threadId=12]
+23/03/04 08:01:28 291 [info]:  >> Connection 임대됨 [threadId=12]
+23/03/04 08:01:28 293 [debug]: SELECT ctgNo, ctgName FROM category        ORDER BY ctgNo DESC
+23/03/04 08:01:28 294 [info]:  >> Connection 반납됨 [threadId=12]
+23/03/04 08:01:28 298 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 38ms
+23/03/04 08:01:28 298 [debug]: --------------------------------
+23/03/04 08:01:28 371 [debug]: 클라이언트가 접속했습니다.
+23/03/04 08:01:28 372 [debug]: [GET] http://172.30.1.32:3001/favicon.ico
+23/03/04 08:01:28 372 [debug]: [clinet] ::ffff:172.30.1.32 / Windows 10.0 / Chrome (110.0.0.0) / Microsoft Windows
+23/03/04 08:01:28 374 [debug]: 클라이언트의 접속이 종료되었습니다. ::: [runtime] 3ms
+23/03/04 08:01:28 375 [debug]: --------------------------------
